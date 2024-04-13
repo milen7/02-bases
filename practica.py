@@ -1,2 +1,0 @@
-print("nuevo archivo")
-print
